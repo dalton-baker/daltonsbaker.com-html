@@ -19,7 +19,7 @@
         <a href="https://www.linkedin.com/in/dalton-baker" target="_blank"
             class="btn btn-outline-light btn-sm">LinkedIn</a>
         <a href="{pdfUrl}" target="_blank" class="btn btn-outline-light btn-sm">Resume</a>
-        <a href="/cdn-cgi/l/email-protection#e4808588908b8aca97ca86858f8196a48389858d88ca878b89"
+        <a href="mailto:dalton.s.baker@gmail.com"
             class="btn btn-outline-light btn-sm">Email</a>
     </div>
 </section>
